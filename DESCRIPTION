@@ -5,7 +5,7 @@ Version: 1.0
 License: GPL-3
 Title: Datashield meta-package (client side)
 Description: This package installs as dependencies all other DataSHIELD
-    packages for server side.
+    packages for client side.
 Depends:
     dsbaseclient,
     dsregressionclient,
