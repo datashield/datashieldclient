@@ -1,0 +1,14 @@
+Package: datashieldclient
+Maintainer: <datashield@obiba.org>
+Author: <datashield@obiba.org>
+Version: 1.0
+License: GPL-3
+Title: Datashield meta-package (client side)
+Description: This package installs as dependencies all other DataSHIELD
+    packages for server side.
+Depends:
+    dsbaseclient,
+    dsregressionclient,
+    dsteststatsclient
+Collate:
+    ''
