@@ -1,7 +1,7 @@
 Package: datashieldclient
 Maintainer: <datashield@obiba.org>
 Author: <datashield@obiba.org>
-Version: 1.0
+Version: 1.1
 License: GPL-3
 Title: Datashield meta-package (client side)
 Description: This package installs as dependencies all other DataSHIELD
