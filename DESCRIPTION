@@ -11,7 +11,6 @@ Depends:
     fields,
     spam,
     dsbaseclient,
-    dsmodellingclient,
-    dsteststatsclient
+    dsmodellingclient
 Collate:
     ''
