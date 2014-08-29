@@ -2,8 +2,7 @@
 
 ## Main changes
 
-* The syntax of the commands has now been drastically simplified for all the client function. 
-  e.g. previously to generate a 1-dimensional table of for example the variabl `DIS_CVA` held in data frame `D` we would   have written:  
+* The syntax of the commands has now been drastically simplified for all the client functions e.g. previously to generate a 1-dimensional table of for example the variabl `DIS_CVA` held in data frame `D` we would   have written:  
   _`ds.table1d(datasources=opals, xvect=quote(D$DIS_CVA))`_  
   Now we write:  
   _`ds.table1D(x='D$DIS_CVA')`_  
@@ -19,7 +18,7 @@
  funtion names or syntax.__ 
 
 ## List of packages and functions in the version 3.0.0
-There are now four packages. The name of the packages and functions can be viewed [here](https://wikis.bris.ac.uk/display/DSDEV/List+of+Packages+and+functions+currently+available "Title").
+There are now four packages. The name of the packages and their functions can be viewed [here](https://wikis.bris.ac.uk/display/DSDEV/List+of+Packages+and+functions+currently+available "Title").
 
 ## Summary of the changes
 |Previous name of the function|Name in datashieldclient 3.0.0|Status|
