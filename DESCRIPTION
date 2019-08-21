@@ -1,9 +1,9 @@
 Package: datashieldclient
 Maintainer: <datashield@obiba.org>
 Author: <datashield@obiba.org>
-Version: 3.0.1
+Version: 5.0.0
 License: GPL-3
 Title: Datashield meta-package (client side)
 Description: This package installs as dependencies all other DataSHIELD
     packages for client side.
-Depends: opal, fields, spam, dsBaseClient, dsModellingClient, dsGraphicsClient, dsStatsClient
+Depends: dsBaseClient
